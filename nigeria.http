@@ -1,0 +1,6 @@
+@nigeria_HostAddress = http://localhost:5225
+
+GET {{nigeria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
