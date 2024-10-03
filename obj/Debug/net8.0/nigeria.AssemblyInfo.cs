@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nigeria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c3913f485d4cd4d82d4c8530bc74894a9bce1d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7697c2b355abcf8325b8b4df43b68a6a926fbf45")]
 [assembly: System.Reflection.AssemblyProductAttribute("nigeria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nigeria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
